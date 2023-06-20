@@ -3,7 +3,7 @@
         <title>todos title</title>
     </head>
     <body>
-        Todos body
+        <div>${name}</div>
         <div>Your Todos are : ${todos}</div>
 
 
