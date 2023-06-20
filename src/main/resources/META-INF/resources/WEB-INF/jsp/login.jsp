@@ -3,6 +3,6 @@
         <title>login title</title>
     </head>
     <body>
-        login body
+        login body ${name}
     </body>
 </html>
